@@ -1,0 +1,5 @@
+httpx
+Pillow
+pydantic
+tqdm
+ffmpeg-python
