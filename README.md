@@ -53,7 +53,7 @@ This tool is designed for speed and data integrity. It solves the common problem
 Download the ZIP file from the email and **extract the entire contents** into this project's folder. Your folder should look like this:
 
 ```text
-/snapchat-memory-downloader
+/tusmd_the-ultimate-snapchat-memory-downloader
 ├── main.py
 ├── json/               <-- Extracted from ZIP
 │   └── memories_history.json
